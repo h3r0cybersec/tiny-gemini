@@ -1,0 +1,15 @@
+# Local Gemini Server
+Welcome to my personal space within the Gemini space. The project on which this server is based is as follows:
+=> https://github.com/h3r0cybersec/tiny-gemini Github
+
+## Changelog
+Everything you need to know about the new versions is described here:
+
+=> ../changelog Changelog
+
+## Server Status
+
+```
+server: ((server))
+latest update 09/08/2023 7:04 pm
+``` 

@@ -1,0 +1,19 @@
+# Globals
+
+- [X] basic server implementation
+- [X] basic system to dynamically evaluate given variables in .gmi files
+- [ ] implement cli tool to handle server configuration:
+  - [ ] add `--skeleton` functionality for server directory tree initialization
+  - [ ] add `--run` functionality to run a server
+  - [ ] add `--routes` functionality to show all configured routes for the server without running it
+- [ ] implement security test
+- [ ] implement auto-reload for dev mode
+- [ ] implement access/error log into a file
+- [ ] implement other test cases
+- [ ] implement TLS certificate deep checks
+- [ ] implement functionality to handle static file server, for staticaly serve root folder files
+- [ ] implement functionality to handle *cgi* script, [RFC 3875](https://datatracker.ietf.org/doc/html/rfc3875)
+- [ ] implement **Virtual Host Named Based** system
+- [ ] codebase improve
+  - [ ] better code refactoring
+  - [ ] syntactic sugar
